@@ -2,7 +2,10 @@
 Language models fine-tuned for Kannada Language
 
 ## Available models
-- BERT with __ parameters(Using RoBERTa)
+- BERT with 80M parameters(Using RoBERTa)
+
+## Dataset
+- TODO Train on [CC-100](http://data.statmt.org/cc-100/) dataset
 
 ## TODO
 - Larger BERT model
